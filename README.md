@@ -2,13 +2,13 @@
 <h3 align="center">aka Miku | Learning in Public | Building with Purpose</h3>
 
 <p align="center">
-  <a href="https://buildwithmiku.hashnode.dev" target="_blank">
+  <a href="https://mikuslog.hashnode.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Blog-BuildWithMiku-blue?style=flat-square&logo=Hashnode" />
   </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
+  <a href="https://x.com/BhaswanthR20169" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%40yourhandle-1DA1F2?style=flat-square&logo=twitter" />
   </a>
-  <a href="https://linkedin.com/in/your-link" target="_blank">
+  <a href="https://www.linkedin.com/in/bhaswanth-vangapati/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
   </a>
 </p>
@@ -20,7 +20,7 @@
 - 🧠 CS Grad | Full-Stack Dev in Progress | DevOps & AI Curious  
 - 🔁 **30-Day DSA Sprint** – 10 problems/day for consistency  
 - 🛠️ Building a portfolio with **Next.js, Node.js**  
-- ✍️ Sharing thoughts at [buildwithmiku.hashnode.dev](https://mikuslog.hashnode.dev/)  
+- ✍️ Sharing thoughts at [buildwithmiku](https://mikuslog.hashnode.dev/)  
 - 🌱 Learning in public with #BuildWithMe  
 
 ---
